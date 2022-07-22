@@ -4,7 +4,7 @@
 It is a 5x5 `Interactive Checker Board` coded in `Assembly Language`. Interctive means that it gives response to your `Keyboard and Mouse Inputs`. You must first give keyboard inputs and then mouse inputs for it to work. For keyboard input, you must type your name in all capital letters and squares with those alphabets on the checker board will turn green. For mouse input, you can click on any alphabet as you want and their color will change. On clicking, black square will turn red and white square will turn blue.
 
 ### Manual
-1) Use these command in the dosbox to `Compile` and `Run` the code:
+1) Use these command in dosbox to `Compile` and `Run` the code:
     ```
     ml main.asm
     ```
